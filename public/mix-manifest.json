@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/custom.js": "/js/custom.js",
+    "/js/jquery.min.js": "/js/jquery.min.js",
+    "/js/jquery.sticky-sidebar.min.js": "/js/jquery.sticky-sidebar.min.js",
+    "/js/popper.min.js": "/js/popper.min.js",
+    "/js/slick.min.js": "/js/slick.min.js",
+    "/css/app.css": "/css/app.css"
+}
